@@ -1,1 +1,1 @@
-variable readme file
+positive,negative,zero
