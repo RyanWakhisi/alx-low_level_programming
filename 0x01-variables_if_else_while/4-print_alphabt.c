@@ -8,6 +8,7 @@
 int main(void)
 {
 	int x = 97;
+
 	while (x <= 122)
 	{
 		if (x == 101 || x == 113)
