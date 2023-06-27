@@ -1,4 +1,4 @@
-#incluse "main.h"
+#include "main.h"
 #include <string.h>
 /**
  * puts2 - prints out the number divisible by two
