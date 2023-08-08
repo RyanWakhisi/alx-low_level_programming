@@ -1,4 +1,4 @@
-#include "mai.h"
+#include "main.h"
 #include <stdlib.h>
 /**
  * str_concat - gets end of input and add together
