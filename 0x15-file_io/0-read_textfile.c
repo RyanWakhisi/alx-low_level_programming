@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * read_textfile - reads text & prints on screen
+ * read_textfile - A function that reads text & prints on screen
  * @filename: file to read & printf from
  * @letters: number of letters to read & print
  * Return: Actual no of letters to read & print
