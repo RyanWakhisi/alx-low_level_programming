@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - A function that check the code
  *
  * Return: Always 0.
  */
